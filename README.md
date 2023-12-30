@@ -35,4 +35,4 @@ Sundan ang mga to para makasali.
 9. Ang Airdrop ay hanggang ** 31st DECEMBER***. 
 Ang mga final na airdrop receivers ay iannounce sa github : https://github.com/OwshenNetwork/genesis
  
-Merry Christmas and happy diving! :swimmer: 
+Merry Christmas and Happy New year!
